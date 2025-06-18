@@ -5,7 +5,7 @@
 
 Bu proje, çalışanların aldığı eğitimleri ve performans süreçlerini yönetmek amacıyla geliştirilmiş basit bir takip sistemidir. Veritabanı olarak SQLite, backend tarafında Python ile FastAPI framework'ü kullanılmıştır.
 
-## 🔧 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Python
 - FastAPI
@@ -14,7 +14,7 @@ Bu proje, çalışanların aldığı eğitimleri ve performans süreçlerini yö
 - Bcrypt (şifreleme için)
 - Swagger UI (API test arayüzü)
 
-## 📌 Temel Özellikler
+## Temel Özellikler
 
 - Çalışan (Kullanıcı) Ekleme, Listeleme, Güncelleme, Silme
 - Departman Ekleme, Listeleme, Güncelleme, Silme
@@ -24,7 +24,7 @@ Bu proje, çalışanların aldığı eğitimleri ve performans süreçlerini yö
 - Belirli bir eğitime katılan çalışanları listeleme
 - Kullanıcı şifreleri bcrypt ile güvenli şekilde hash'lenir
 
-## 🚀 Başlatma
+## Başlatma
 
 1. Gerekli kütüphaneleri yükleyin:
 pip install fastapi uvicorn sqlalchemy bcrypt
@@ -66,7 +66,7 @@ Hazırlayan
 Tuğba Alptekin 
 Yönetim Bilişim Sistemleri 4. Sınıf
 
-### 📄 “Uygulama Özeti” bölümü için kısa açıklama:
+### Uygulama Özeti :
 
 Bu bitirme projesinde, kurum içi personelin aldığı eğitimlerin ve performans gelişimlerinin izlenmesi amacıyla geliştirilen "Personel Performansı ve Eğitim Takip Sistemi" yer almaktadır.
 
